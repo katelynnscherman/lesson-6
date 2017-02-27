@@ -195,3 +195,7 @@ footer >h1 {
     max-width:960px;
 }
 
+/*bootstrap related*/
+.container-fluid {
+    padding:0;
+}
